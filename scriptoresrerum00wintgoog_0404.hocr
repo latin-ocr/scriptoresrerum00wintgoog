@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scriptoresrerum00wintgoog_0404.png"; bbox 0 0 938 1173; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 195 108 855 211">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 195 108 855 211">
+     <span class='ocr_line' id='line_1_1' title="bbox 195 108 855 211; baseline 0.009 -14"><span class='ocrx_word' id='word_1_1' title='bbox 195 146 660 200; x_wconf 89' lang='lat' dir='ltr'>SCRIPTORES</span> <span class='ocrx_word' id='word_1_2' title='bbox 730 208 733 211; x_wconf 22' lang='lat' dir='ltr'><em>s</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 784 108 807 182; x_wconf 69' lang='grc' dir='ltr'> ’</span> <span class='ocrx_word' id='word_1_4' title='bbox 850 191 855 203; x_wconf 77' lang='grc'><strong>,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 41 213 790 411">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 41 213 790 411">
+     <span class='ocr_line' id='line_1_2' title="bbox 41 213 790 411; baseline 0 762"><span class='ocrx_word' id='word_1_5' title='bbox 41 213 790 411; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 83 430 798 595">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 83 430 798 595">
+     <span class='ocr_line' id='line_1_3' title="bbox 83 430 798 508; baseline 0.013 -8.114"><span class='ocrx_word' id='word_1_6' title='bbox 83 430 798 508; x_wconf 86' lang='lat' dir='ltr'>BRANDENBUR</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 230 522 615 595; baseline 0.012 -3"><span class='ocrx_word' id='word_1_7' title='bbox 163 520 615 660; x_wconf 89' lang='lat' dir='ltr'>GENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 298 927 562 989">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 298 927 562 989">
+     <span class='ocr_line' id='line_1_5' title="bbox 298 927 562 962; baseline 0.011 -13"><span class='ocrx_word' id='word_1_8' title='bbox 298 927 375 954; x_wconf 62' lang='lat' dir='ltr'>‘typis</span> <span class='ocrx_word' id='word_1_9' title='bbox 394 928 416 949; x_wconf 75' lang='lat' dir='ltr'>fl</span> <span class='ocrx_word' id='word_1_10' title='bbox 421 936 562 962; x_wconf 66' lang='grc' dir='ltr'>ιιιιιιιι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 333 967 494 989; baseline 0.019 -4"><span class='ocrx_word' id='word_1_11' title='bbox 333 967 412 986; x_wconf 61' lang='lat' dir='ltr'>unce</span> <span class='ocrx_word' id='word_1_12' title='bbox 421 969 438 987; x_wconf 90' lang='lat' dir='ltr'>x</span> <span class='ocrx_word' id='word_1_13' title='bbox 441 968 494 989; x_wconf 58' lang='lat' dir='ltr'>bbbb</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
